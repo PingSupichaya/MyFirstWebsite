@@ -1,0 +1,186 @@
+
+body{
+    background-image: url(../pngtree-original-simple-small-fresh-light-blue-watercolor-background-picture-image_1633400.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+
+#navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: #0e668f;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    z-index: 1000;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+#navbar ul li a {
+    color: #331603;
+    text-decoration: none;
+    transition: color 0.3s;
+    font-size: large;
+}
+
+#navbar ul li a:hover {
+    color: #ffcc00;
+}
+
+.section {
+    height: 100vh;
+    padding: 50px;
+    text-align: center;
+}
+
+.Edu {
+    width: 300px;
+    height: 400px;
+    background-color:#f2d08c;
+    text-align: center;
+    border-width: 1px;
+    border-color: rgb(47, 0, 86);
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+    
+    border-radius: 30px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+#ED{
+    width: 350px;
+    height: 700px;
+    background-color:#f2d08c;
+    text-align: center;
+    border-width: 1px;
+    border-color: rgb(47, 0, 86);
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+
+    
+    border-radius: 30px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+#game{
+    width: 330px;
+    height: 530px;
+    background-color:#f2d08c;
+    text-align: center;
+    border-width: 1px;
+    border-color: rgb(47, 0, 86);
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+
+    
+    border-radius: 30px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+#interest{
+    width: 400px;
+    height: 900px;
+    background-color:#f2d08c;
+    text-align: center;
+    border-width: 1px;
+    border-color: rgb(47, 0, 86);
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+
+    
+    border-radius: 30px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+#skill{
+    width: 300px;
+    height: 400px;
+    background-color: #f2d08c;
+    text-align: center;
+    border-width: 1px;
+    border-color: rgb(47, 0, 86);
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+
+    
+    border-radius: 30px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+img{
+    object-position: 0% 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+p{
+    color: #331603;
+}
+h3{
+    color: #331603;
+}
+h4{
+    color: #331603;
+}
+h2{
+    color: #331603;
+}
+.IMG{
+    text-align: center;
+    border-width: 1px;
+    padding: 10px;
+    margin: 10px;
+
+    border-radius: 30px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+.tenor-gif-embed{
+    text-align: center;
+    border-width: 1px;
+    padding: 10px;
+    margin: 10px;
+
+    border-radius: 30px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
